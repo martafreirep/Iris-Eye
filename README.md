@@ -40,7 +40,7 @@ To perform the deployment, I linked this repository with **Netlify**, which allo
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a630d120-d069-43c1-bb9b-21962a59b74e/deploy-status)](https://app.netlify.com/sites/inspiring-payne-53333a/deploys)
 
 # Usage
-You can use it in this [link](https://inspiring-payne-53333a.netlify.app/)
+You can use it in this [link](https://optimistic-pare-6bf2e7.netlify.app/)
 
 Or through this qr code
 
